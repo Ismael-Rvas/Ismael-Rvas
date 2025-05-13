@@ -7,7 +7,7 @@
 ## 🔥 Sobre mí  
 Soy un apasionado del desarrollo web de **Córdoba, España**, actualmente estudiando para mejorar mis habilidades y construir soluciones innovadoras. Me encanta explorar nuevas tecnologías y **crear herramientas que realmente aporten valor**.  
 
-💡 Actualmente, **estoy trabajando en CubexUI**, una plataforma enfocada en mejorar la experiencia de diseño y desarrollo de interfaces. 🚀  
+💡 Actualmente, **estoy trabajando en CubexUI**, una plataforma enfocada en mejorar la experiencia de diseño y desarrollo de interfaces.  
 
 🛠️ Me apasiona trabajar con **JavaScript, React, Tailwind CSS y más**, siempre buscando expandir mis conocimientos.  
 
@@ -16,20 +16,15 @@ Soy un apasionado del desarrollo web de **Córdoba, España**, actualmente estud
 ---
 
 ## 🚀 Proyectos Destacados  
-🔹 [CubexUI](https://github.com/cubexui) - Diseñando la próxima generación de interfaces.  
-🔹 Más proyectos en mi [GitHub](https://github.com/IsmaelRivasCano)  
+🔹 [CubexUI](https://github.com/Ismael-Rvas/Cubex-UI) - Diseñando la próxima generación de interfaces.  
 
 ---
 
 ## 🛠️ Tecnologías & Herramientas  
-✔ **Frontend:** React, Tailwind CSS, Vite  
+✔ **Frontend:** React, Tailwind CSS  
 ✔ **Backend:** Node.js, Firebase, Supabase  
 ✔ **Diseño:** Figma, UI/UX  
 
 ---
-
-## 🌍 Conectemos  
-🔗 [LinkedIn](https://www.linkedin.com/in/ismaelrivas)  
-🔗 [Twitter](https://twitter.com/ismaelrivasdev)  
 
 💬 ¡Siempre abierto a aprender, colaborar y desarrollar ideas increíbles!  
