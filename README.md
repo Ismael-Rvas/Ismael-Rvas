@@ -16,7 +16,7 @@ Soy un apasionado del desarrollo web de **Córdoba, España**, actualmente estud
 ---
 
 ## 🚀 Proyectos Destacados  
-🔹 [CubexUI]([https://github.com/Ismael-Rvas/Cubex-UI](https://github.com/Cubexui-io)) - Diseñando la próxima generación de interfaces.  
+🔹 [CubexUI](https://github.com/Cubexui-io) - Diseñando la próxima generación de interfaces.  
 
 ---
 
